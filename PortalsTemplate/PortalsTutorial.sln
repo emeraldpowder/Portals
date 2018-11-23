@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalsTutorial", "PortalsTutorial.csproj", "{EA561B02-6412-04C5-C2F8-5F0B45AAE21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalsTutorial.Editor", "PortalsTutorial.Editor.csproj", "{A7F12687-647A-ABB4-1390-FE42A9E00331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA561B02-6412-04C5-C2F8-5F0B45AAE21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA561B02-6412-04C5-C2F8-5F0B45AAE21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA561B02-6412-04C5-C2F8-5F0B45AAE21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA561B02-6412-04C5-C2F8-5F0B45AAE21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F12687-647A-ABB4-1390-FE42A9E00331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F12687-647A-ABB4-1390-FE42A9E00331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F12687-647A-ABB4-1390-FE42A9E00331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F12687-647A-ABB4-1390-FE42A9E00331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
